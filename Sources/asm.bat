@@ -1,1 +1,0 @@
-..\z_tools\nask.exe Source.nas helloos.img
